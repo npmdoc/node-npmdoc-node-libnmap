@@ -1,4 +1,7 @@
-# api documentation for  [node-libnmap (v0.2.15)](https://github.com/jas-/node-libnmap)  [![npm package](https://img.shields.io/npm/v/npmdoc-node-libnmap.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-node-libnmap) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-node-libnmap.svg)](https://travis-ci.org/npmdoc/node-npmdoc-node-libnmap)
+# npmdoc-node-libnmap
+
+#### basic api documentation for  [node-libnmap (v0.2.15)](https://github.com/jas-/node-libnmap)  [![npm package](https://img.shields.io/npm/v/npmdoc-node-libnmap.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-node-libnmap) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-node-libnmap.svg)](https://travis-ci.org/npmdoc/node-npmdoc-node-libnmap)
+
 #### libnmap for node.js
 
 [![NPM](https://nodei.co/npm/node-libnmap.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/node-libnmap)
@@ -72,7 +75,8 @@
         "start": "node index.js",
         "test": "mocha -R spec"
     },
-    "version": "0.2.15"
+    "version": "0.2.15",
+    "bin": {}
 }
 ```
 
